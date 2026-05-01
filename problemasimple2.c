@@ -13,6 +13,7 @@ int main()
     circunferencia = pi*radio*2;
     área = pi*radio*radio;
     
-    printf("La circunferencia es: %lf \n", circunferencia  );
+    printf("La circunferencia es: %lf \n", circunferencia);
     printf("y el área es: %lf", área);
+return 0;
 }
