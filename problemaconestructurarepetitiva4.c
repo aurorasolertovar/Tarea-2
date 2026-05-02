@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int producto=1;
+    double producto=1;
     int N;
     int cont=1;
     printf("Ingresa un número entero positivo\n");
@@ -13,7 +13,7 @@ int main()
         cont++;
     }
     
-    printf("La multiplicación de los primeros %d", N);
+    printf("La multiplicación de los primeros %lf", N);
     printf(" números naturales es: %d", producto);
     
     
