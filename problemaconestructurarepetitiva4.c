@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int producto=1; //5:09
+    int producto=1;
     int N;
     int cont=1;
     printf("Ingresa un número entero positivo\n");
