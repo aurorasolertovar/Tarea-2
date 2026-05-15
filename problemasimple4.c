@@ -12,7 +12,7 @@ int main()
     
     ganancia=dinero*tasadeinterésmensual/100;
     dinero=dinero+ganancia;
-    printf("Dinero a recibir: %lf", dinero);
+    printf("Dinero a recibir al finalizar el mes: %lf", dinero);
     
 return 0;    
 }
