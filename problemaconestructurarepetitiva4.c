@@ -13,8 +13,8 @@ int main()
         cont++;
     }
     
-    printf("La multiplicación de los primeros %lf", N);
-    printf(" números naturales es: %d", producto);
+    printf("La multiplicación de los primeros %d", N);
+    printf(" números naturales es: %lf", producto);
     
     
     
